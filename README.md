@@ -39,7 +39,7 @@ Clone the repository:
 
 git clone https://github.com/CodeWithMehru/Mobile-Baxar-Demo.git
 
-cd mobile-bazar-demo
+cd mobile-baxar-demo
 
 
 Install dependencies:
