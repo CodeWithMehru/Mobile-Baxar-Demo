@@ -63,3 +63,5 @@ This is a demo frontend — no authentication, no database, no backend.
 Product data comes from data/products.json.
 
 Use it for learning, UI testing, or demo presentations.
+
+DEVELOPED BY: CodeWithMehru
